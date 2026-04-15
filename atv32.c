@@ -13,7 +13,7 @@ int main()
         }
     }
 
-    printf ("O maior numero e: %d\n", menor);
+    printf ("O menor numero e: %d\n", menor);
 
     return 0;
 }
